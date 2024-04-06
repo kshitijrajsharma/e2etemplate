@@ -1,0 +1,72 @@
+---
+logo: images/hot-logo-icon-nav.svg
+title: End-to-End Mapping Process Visualization
+description: This is a visual representation of comprehensive end-to-end scenario, leveraging only open data and tools to streamline geospatial mapping workflows. This page has been brought to you by Humanitarian OpenStreetMap (HOTOSM) . HOT is an international team dedicated to humanitarian action and community development through open mapping. 
+steps:
+  - title: Imagery Collection
+    description: Gather high-quality aerial imagery using photogrammetry techniques with drones, ensuring accurate and up-to-date data acquisition.
+    image: https://via.placeholder.com/720
+    substeps:
+      - title: Flight Planning
+        description: Perform your checklist 
+              Advised to quickly get area of interest using gps tracker (Make sure survey area is not too small)
+              Keep drone always in sight (meaning flight plan adaptations depending on drone/height of drone. 
+              Start on a location with open space
+              Check windspeed/terrain, drone battery etc Learn more flight plan here (https://github.com/hotosm/datm-research/tree/main/flight_control/dji)
+        image: https://via.placeholder.com/200
+
+      - title: Perform Aerial survey
+        description: After you are done with the checklist , You are ready to perform your flight and start collecting images
+        image: https://via.placeholder.com/200
+
+  - title: Image Processing
+    description: Process the collected imagery with OpenDroneMap, an open-source toolchain for photogrammetric processing, to generate orthophotos, point clouds, and digital surface models.
+    image: images/odm.png
+    substeps:
+      - title: Install OpenDroneMap
+        description: Goto opendronemap website , Install based on your OS
+        image: https://via.placeholder.com/200
+
+      - title: Transfer your photos
+        description : Transfer your collected drone photos to the device you want to do processing on
+        image: https://via.placeholder.com/200
+
+      - title: Generate Orthomosaic and Digital Elevation Model
+        description : Transfer your collected drone photos to the device you want to do processing on
+        image: https://via.placeholder.com/200
+
+
+  - title: Hosting and Sharing
+    description: Host and share the processed data on OpenAerialMap, an open platform for sharing imagery and derived products, enabling collaborative mapping efforts.
+    image: images/oam.png
+
+  - title: Remote Mapping and Validation
+    description: Leverage the Tasking Manager platform to coordinate remote mapping efforts, enabling contributors from around the world to participate in mapping projects.
+    image: images/mapping.mp4
+
+  - title: Creating Local AI Model
+    description: Accelerate the digitization process by creating a local AI model using fAIr, an open-source tool for training machine learning models tailored to your specific mapping needs.
+    image: images/fair.png
+
+  - title: Field Mapping
+    description: Empower field mappers with the Field Mapping Tasking Manager, a tool that facilitates collaborative mapping efforts and data collection in the field.
+    image: images/fmtm.png
+
+  - title: Data Extraction
+    description: Utilize the Export tool to extract the desired data from OpenStreetMap, allowing you to work with the mapped information in various formats and applications.
+    image: https://via.placeholder.com/720
+
+  
+  - title: Loading and Analysis
+    description: Integrate the extracted datasets into QGIS, a powerful open-source geographic information system, enabling advanced analysis, visualization, and decision-making.
+    image: https://via.placeholder.com/720
+
+footer:
+  contact: Contact us at geospatial@example.com for more information about our services.
+  social:
+    - name: Twitter
+      link: https://twitter.com/example
+    - name: LinkedIn
+      link: https://linkedin.com/company/example
+    - name: GitHub
+      link: https://github.com/example
