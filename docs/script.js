@@ -1,3 +1,17 @@
+function updateFaviconWithLogo(logoURL) {
+  const image = new Image();
+  image.src = logoURL;
+  image.onload = () => {
+    const canvas = document.createElement("canvas");
+    const ctx = canvas.getContext("2d");
+    canvas.width = 16;
+    canvas.height = 16;
+    ctx.drawImage(image, 0, 0, canvas.width, canvas.height);
+    const faviconURL = canvas.toDataURL("image/x-icon");
+    document.querySelector('link[rel="icon"]').href = faviconURL;
+  };
+}
+
 // Fetch the YAML data
 fetch("config.yaml")
   .then((response) => response.text())
@@ -9,6 +23,7 @@ fetch("config.yaml")
       <a href="#"><img src="${data.logo}" alt="Logo" class="logo"></a>
     `;
     document.querySelector(".logo-container").innerHTML = logoHTML;
+    updateFaviconWithLogo(data.logo);
 
     // Render the navigation links
     const navLinksHTML = data.steps
@@ -17,6 +32,14 @@ fetch("config.yaml")
       })
       .join("");
     document.querySelector(".nav-links").innerHTML = navLinksHTML;
+
+    // Hamburger menu toggle
+    const navToggle = document.querySelector(".nav-toggle");
+    const navLinks = document.querySelector(".nav-links");
+
+    navToggle.addEventListener("click", function () {
+      navLinks.classList.toggle("active");
+    });
 
     // Render the main content
     const mainHTML = `
