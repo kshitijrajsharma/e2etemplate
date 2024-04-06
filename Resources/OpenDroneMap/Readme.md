@@ -70,6 +70,10 @@ cd WebODM
 Once upload is done , You will see Processing of your image 
 ![image](https://github.com/kshitijrajsharma/e2eTemplate/assets/36752999/bcce14d3-bec3-4278-a133-4d4e10f44e7a)
 
+- Once done you will see this screen , click on view image and your image will be ready to be shared 
+![image](https://github.com/kshitijrajsharma/e2eTemplate/assets/36752999/3548d581-1aaf-46d4-bab9-e0d1bfcd3b34)
+- You can share it using TMS , WMTS or pass URL to other user and they can download it as geotiff  
+![image](https://github.com/kshitijrajsharma/e2eTemplate/assets/36752999/2ea616fd-9d9a-47a9-8c80-e112e612a169)
 
 
 - Option 2 : From OpenDroneMap
