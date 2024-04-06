@@ -32,11 +32,17 @@ cd WebODM
 <img width="734" alt="image" src="https://github.com/kshitijrajsharma/e2eTemplate/assets/36752999/fa306d90-3af4-40e5-baeb-3f1ecd2385e4">
 
 - After import You would see following window 
+<img width="1145" alt="image" src="https://github.com/kshitijrajsharma/e2eTemplate/assets/36752999/d142fd4f-fae9-4a96-b659-a5ae7b9d481a">
 
-- You can either go with default setting or apply your own customization for processing parameter . For us : We have enabled DTM generation too along with DEM and high resolution orthophoto 
+
+- You can either go with default setting or apply your own customization for processing parameter . For us : We have enabled DTM generation too along with DEM , high resolution orthophoto and enabled resize
+<img width="594" alt="image" src="https://github.com/kshitijrajsharma/e2eTemplate/assets/36752999/1a05cc53-9278-432c-9a41-3ad4d34362c4">
 
 
 - Hit start and you should see your processing window like following : This means processing has started , Now sit back, Grab a coffee and Relax until done 
+
+<img width="1143" alt="image" src="https://github.com/kshitijrajsharma/e2eTemplate/assets/36752999/296a1599-c31e-481b-8a69-f2652f3a4d99">
+
 
 ![image](https://github.com/kshitijrajsharma/e2eTemplate/assets/36752999/1aac79cd-c7a6-45bd-a83e-2cb1bb36269c)
  
