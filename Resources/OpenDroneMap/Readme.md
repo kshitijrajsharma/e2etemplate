@@ -19,6 +19,7 @@ cd WebODM
 - Hit http://localhost:8000 and You would see following screen 
 
 - Create username and password : we created `admin` : `admin` 
+![image](https://github.com/kshitijrajsharma/e2eTemplate/assets/36752999/248db0c5-a324-4926-8df6-92a525f28352)
 
 - Home page will be available like following 
 <img width="742" alt="image" src="https://github.com/kshitijrajsharma/e2eTemplate/assets/36752999/824d1b8d-5648-4431-bf2b-a8742d74d7d5">
