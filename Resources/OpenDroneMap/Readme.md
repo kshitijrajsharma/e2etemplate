@@ -31,6 +31,14 @@ cd WebODM
 - Import your images using `import` option in your created project 
 <img width="734" alt="image" src="https://github.com/kshitijrajsharma/e2eTemplate/assets/36752999/fa306d90-3af4-40e5-baeb-3f1ecd2385e4">
 
--  
+- After import You would see following window 
+
+- You can either go with default setting or apply your own customization for processing parameter . For us : We have enabled DTM generation too along with DEM and high resolution orthophoto 
+
+
+- Hit start and you should see your processing window like following : This means processing has started , Now sit back, Grab a coffee and Relax until done 
+
+![image](https://github.com/kshitijrajsharma/e2eTemplate/assets/36752999/1aac79cd-c7a6-45bd-a83e-2cb1bb36269c)
+ 
 
 
