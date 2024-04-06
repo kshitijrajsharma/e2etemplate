@@ -62,11 +62,7 @@ steps:
     image: https://via.placeholder.com/720
 
 footer:
-  contact: Contact us at geospatial@example.com for more information about our services.
+  contact: Contact us at info@hotosm.org for more information about our services.
   social:
-    - name: Twitter
-      link: https://twitter.com/example
-    - name: LinkedIn
-      link: https://linkedin.com/company/example
     - name: GitHub
-      link: https://github.com/example
+      link: https://github.com/hotosm
