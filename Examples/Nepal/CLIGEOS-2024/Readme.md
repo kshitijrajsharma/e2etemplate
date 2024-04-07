@@ -19,3 +19,19 @@ Perimeter of Agriculture Research Center : https://www.openstreetmap.org/way/742
 Primary objective is to train all the participant of summer school . Participant of summer school had diverse background consisitng of students, geospatial professionals and government represesntative. Total of 35 people have  attended the summer school 
 
 
+## Steps : 
+
+1) Get Area of Interest : 
+
+Area of interest has been created with the local knowleadge and modified in OpenStreetMap 
+
+<img width="957" alt="image" src="https://github.com/kshitijrajsharma/e2eTemplate/assets/36752999/13aa7fc6-40ef-4fc7-a0ab-c6b53b0abbbb">
+
+2 ) Download Area of interest from OpenStreetMap 
+
+We have used rawdata api to download our AOI 
+
+https://api-prod.raw-data.hotosm.org/v1/osm_id/?osm_id=742793744
+
+3 ) 
+
