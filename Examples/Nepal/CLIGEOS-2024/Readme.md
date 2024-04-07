@@ -18,3 +18,4 @@ Perimeter of Agriculture Research Center : https://www.openstreetmap.org/way/742
 
 Primary objective is to train all the participant of summer school . Participant of summer school had diverse background consisitng of students, geospatial professionals and government represesntative. Total of 35 people have  attended the summer school 
 
+
