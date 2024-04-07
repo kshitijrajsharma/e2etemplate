@@ -39,27 +39,85 @@ steps:
   - title: Hosting and Sharing
     description: Host and share the processed data on OpenAerialMap, an open platform for sharing imagery and derived products, enabling collaborative mapping efforts.
     image: images/oam.png
+    substeps : 
+      - title: Sign in to OpenAerialMap
+        description: Create your account in OAM 
+        image: https://via.placeholder.com/200
+      - title : Upload and Share 
+        description : Click on upload icon , Provide metadata to your image , review and upload . Now you are ready to share 
+        image: https://via.placeholder.com/200
 
   - title: Remote Mapping and Validation
     description: Leverage the Tasking Manager platform to coordinate remote mapping efforts, enabling contributors from around the world to participate in mapping projects.
     image: images/tm.png
+    substeps :
+      - title :  Create Mapping Project
+        description : To enable remote collaborative mapping , Create mapping project in tasking manager 
+        image: https://via.placeholder.com/200
+     
+      - title : Split to tasks and publish 
+        image: https://via.placeholder.com/200
+        description : Create small tasks so that they can be used by multiple people and start mapping 
 
   - title: Creating Local AI Model
     description: Accelerate the digitization process by creating a local AI model using fAIr, an open-source tool for training machine learning models tailored to your specific mapping needs.
     image: images/fair.png
 
-  - title: Field Mapping
+    substeps : 
+      - title : Create Training Dataset 
+        image: https://via.placeholder.com/200
+        description: Once you have mapped in tasking manager and validate the task , you are now ready to create your local model for your area , Log into fair-dev.hotosm.org and create your training dataset with the image ( TMS from OAM ) and Lables from Tasking manager validated tasks
+      - title: Train model and publish 
+        image: https://via.placeholder.com/200
+        description : Now you can train your model , this step can involve multiple iteration until you find a appropriate model for your area   
+      - title : Map rest of the area with AI predictions 
+        image: https://via.placeholder.com/200
+        description : Once you have your model ready , You are ready to predict rest of the area , validate the labels and map full area 
+
+    
+  - title: Field Mapping with local attributes
     description: Empower field mappers with the Field Mapping Tasking Manager, a tool that facilitates collaborative mapping efforts and data collection in the field.
     image: images/fmtm.jpg
+
+    substeps : 
+      - title : Prepare XLSForm 
+        image: https://via.placeholder.com/200
+        description: According to your field data colelction requirement , You can create a XLSForm with your fields to collect data from local community
+
+      - title: Create Field mapping project 
+        image: https://via.placeholder.com/200
+
+        description: Login to Field Mapping Tasking Manager and Create project with your XLSForm and Data extract 
+      
+      - title : Click on a task area to get the QRCode
+        image: https://via.placeholder.com/200
+
+        description : To move ahead with collaborative field mapping , You can choose the tasks and download the QR Code 
+      
+      - title : Load tasks to ODK , Collect and Download
+        image: https://via.placeholder.com/200
+
+        description : Now you can officially start collecting field data with Open Data Kit in smartphones and submit , Upon submission all data can be downloaded from FMTM
+      
 
   - title: Data Extraction
     description: Utilize the Export tool to extract the desired data from OpenStreetMap, allowing you to work with the mapped information in various formats and applications.
     image: images/export.png
 
-  
+    substeps : 
+      - title : Download final data with field and remote mapping
+        image: https://via.placeholder.com/200
+        description: Now you can finally download all data in your area from OSM Export tool in your desired GIS format
+
   - title: Loading and Analysis
     description: Integrate the extracted datasets into QGIS, a powerful open-source geographic information system, enabling advanced analysis, visualization, and decision-making.
     image: https://via.placeholder.com/720
+
+    substeps : 
+      - title : Open QGIS
+        image: https://via.placeholder.com/200
+        description: Now you can load all data we collected in to QGIS and start your analysis 
+
 
 footer:
   contact: Contact us at info@hotosm.org for more information about our services.
