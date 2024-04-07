@@ -5,7 +5,7 @@ description: This is a visual representation of comprehensive end-to-end scenari
 steps:
   - title: Imagery Collection
     description: Gather high-quality aerial imagery using photogrammetry techniques with drones, ensuring accurate and up-to-date data acquisition.
-    image: https://via.placeholder.com/720
+    image: images/collect.jpg
     substeps:
       - title: Flight Planning
         description: Perform your checklist 
@@ -21,7 +21,7 @@ steps:
 
   - title: Image Processing
     description: Process the collected imagery with OpenDroneMap, an open-source toolchain for photogrammetric processing, to generate orthophotos, point clouds, and digital surface models.
-    image: images/odm.png
+    image: images/odm.jpg
     substeps:
       - title: Install OpenDroneMap
         description: Goto opendronemap website , Install based on your OS
@@ -42,7 +42,7 @@ steps:
 
   - title: Remote Mapping and Validation
     description: Leverage the Tasking Manager platform to coordinate remote mapping efforts, enabling contributors from around the world to participate in mapping projects.
-    image: images/mapping.mp4
+    image: images/tm.png
 
   - title: Creating Local AI Model
     description: Accelerate the digitization process by creating a local AI model using fAIr, an open-source tool for training machine learning models tailored to your specific mapping needs.
@@ -50,11 +50,11 @@ steps:
 
   - title: Field Mapping
     description: Empower field mappers with the Field Mapping Tasking Manager, a tool that facilitates collaborative mapping efforts and data collection in the field.
-    image: images/fmtm.png
+    image: images/fmtm.jpg
 
   - title: Data Extraction
     description: Utilize the Export tool to extract the desired data from OpenStreetMap, allowing you to work with the mapped information in various formats and applications.
-    image: https://via.placeholder.com/720
+    image: images/export.png
 
   
   - title: Loading and Analysis
