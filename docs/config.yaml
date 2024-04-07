@@ -111,7 +111,7 @@ steps:
 
   - title: Loading and Analysis
     description: Integrate the extracted datasets into QGIS, a powerful open-source geographic information system, enabling advanced analysis, visualization, and decision-making.
-    image: https://via.placeholder.com/720
+    image: images/qgis.png
 
     substeps : 
       - title : Open QGIS
