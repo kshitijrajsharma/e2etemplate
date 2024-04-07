@@ -12,3 +12,4 @@ Official Documentation : https://fmtm.dev/
 ## XLS Forms 
 
 - Get Example XLS Forms from here : https://github.com/hotosm/fmtm/tree/development/docs/example-xlsforms 
+- More generic forms : https://github.com/hotosm/osm-fieldwork/tree/main/osm_fieldwork/xlsforms
