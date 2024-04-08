@@ -1,7 +1,7 @@
 ---
 logo: images/hot-logo-icon-nav.svg
-title: End-to-End Mapping Process Visualization
-description: This is a visual representation of comprehensive end-to-end scenario, leveraging only open data and tools to streamline geospatial mapping workflows. This page has been brought to you by Humanitarian OpenStreetMap (HOTOSM) . HOT is an international team dedicated to humanitarian action and community development through open mapping. 
+title: 'End-to-End Open Mapping Workflow:  from capturing real world reference data to using data for decision making'
+description: This is a visual representation of comprehensive end-to-end scenario, leveraging only open data and tools to streamline geospatial mapping workflows. Things needed before getting started; ODK Collect Application in your android phone , QGIS Downloaded in your laptop , OpenStreetMap Account
 steps:
   - title: Imagery Collection
     description: Gather high-quality aerial imagery using photogrammetry techniques with drones, ensuring accurate and up-to-date data acquisition.
@@ -13,11 +13,11 @@ steps:
               Keep drone always in sight (meaning flight plan adaptations depending on drone/height of drone. 
               Start on a location with open space
               Check windspeed/terrain, drone battery etc Learn more flight plan here (https://github.com/hotosm/datm-research/tree/main/flight_control/dji)
-        image: https://via.placeholder.com/200
+        image: images/flight-plan.png
 
       - title: Perform Aerial survey
         description: After you are done with the checklist , You are ready to perform your flight and start collecting images
-        image: https://via.placeholder.com/200
+        image: images/drone-flight.png
 
   - title: Image Processing
     description: Process the collected imagery with OpenDroneMap, an open-source toolchain for photogrammetric processing, to generate orthophotos, point clouds, and digital surface models.
@@ -25,15 +25,15 @@ steps:
     substeps:
       - title: Install OpenDroneMap
         description: Goto opendronemap website , Install based on your OS
-        image: https://via.placeholder.com/200
+        image: images/odm-logo.png
 
       - title: Transfer your photos
         description : Transfer your collected drone photos to the device you want to do processing on
-        image: https://via.placeholder.com/200
+        image: images/transfer-photos.png
 
       - title: Generate Orthomosaic and Digital Elevation Model
         description : Transfer your collected drone photos to the device you want to do processing on
-        image: https://via.placeholder.com/200
+        image: images/dem.png
 
 
   - title: Hosting and Sharing
@@ -42,10 +42,10 @@ steps:
     substeps : 
       - title: Sign in to OpenAerialMap
         description: Create your account in OAM 
-        image: https://via.placeholder.com/200
+        image: images/oam-logo.png
       - title : Upload and Share 
         description : Click on upload icon , Provide metadata to your image , review and upload . Now you are ready to share 
-        image: https://via.placeholder.com/200
+        image: images/oam-result.png
 
   - title: Remote Mapping and Validation
     description: Leverage the Tasking Manager platform to coordinate remote mapping efforts, enabling contributors from around the world to participate in mapping projects.
@@ -53,10 +53,10 @@ steps:
     substeps :
       - title :  Create Mapping Project
         description : To enable remote collaborative mapping , Create mapping project in tasking manager 
-        image: https://via.placeholder.com/200
+        image: images/tm-project.png
      
       - title : Split to tasks and publish 
-        image: https://via.placeholder.com/200
+        image: images/split-tasks.png
         description : Create small tasks so that they can be used by multiple people and start mapping 
 
   - title: Creating Local AI Model
@@ -65,13 +65,13 @@ steps:
 
     substeps : 
       - title : Create Training Dataset 
-        image: https://via.placeholder.com/200
+        image: images/training-datasets.png
         description: Once you have mapped in tasking manager and validate the task , you are now ready to create your local model for your area , Log into fair-dev.hotosm.org and create your training dataset with the image ( TMS from OAM ) and Lables from Tasking manager validated tasks
       - title: Train model and publish 
-        image: https://via.placeholder.com/200
+        image: images/model-trainings.png
         description : Now you can train your model , this step can involve multiple iteration until you find a appropriate model for your area   
       - title : Map rest of the area with AI predictions 
-        image: https://via.placeholder.com/200
+        image: images/prediction.png
         description : Once you have your model ready , You are ready to predict rest of the area , validate the labels and map full area 
 
     
@@ -81,21 +81,21 @@ steps:
 
     substeps : 
       - title : Prepare XLSForm 
-        image: https://via.placeholder.com/200
+        image: images/xls-form.png
         description: According to your field data colelction requirement , You can create a XLSForm with your fields to collect data from local community
 
       - title: Create Field mapping project 
-        image: https://via.placeholder.com/200
+        image: images/create-fmtm-project.png
 
         description: Login to Field Mapping Tasking Manager and Create project with your XLSForm and Data extract 
       
       - title : Click on a task area to get the QRCode
-        image: https://via.placeholder.com/200
+        image: images/fmtm-task-qr.png
 
         description : To move ahead with collaborative field mapping , You can choose the tasks and download the QR Code 
       
       - title : Load tasks to ODK , Collect and Download
-        image: https://via.placeholder.com/200
+        image: images/odk-logo.png
 
         description : Now you can officially start collecting field data with Open Data Kit in smartphones and submit , Upon submission all data can be downloaded from FMTM
       
@@ -106,7 +106,7 @@ steps:
 
     substeps : 
       - title : Download final data with field and remote mapping
-        image: https://via.placeholder.com/200
+        image: images/hot-export.png
         description: Now you can finally download all data in your area from OSM Export tool in your desired GIS format
 
   - title: Loading and Analysis
@@ -115,12 +115,12 @@ steps:
 
     substeps : 
       - title : Open QGIS
-        image: https://via.placeholder.com/200
+        image: images/qgis_logo.png
         description: Now you can load all data we collected in to QGIS and start your analysis 
 
 
 footer:
-  contact: Contact us at info@hotosm.org for more information about our services.
+  contact: Contact us at info@hotosm.org for more information.
   social:
     - name: GitHub
-      link: https://github.com/hotosm
+      link: https://github.com/kshitijrajsharma/e2etemplate/

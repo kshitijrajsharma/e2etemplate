@@ -22,7 +22,15 @@ Perimeter of Agriculture Research Center : https://www.openstreetmap.org/way/742
 Primary objective is to train all the participant of summer school . Participant of summer school had diverse background consisitng of students, geospatial professionals and government represesntative. Total of 35 people have  attended the summer school 
 
 
-## Steps : 
+## Checklist for the activity : 
+1. Register yourself in [OpenStreetMap](https://www.openstreetmap.org/)
+2. Download ODK Collect from [playstore](https://play.google.com/store/apps/details?id=org.odk.collect.android&pli=1)
+3. Download [QGIS](https://qgis.org/en/site/forusers/download.html) in your laptop 
+4. Create your account in [Tasking Manager Dev instance](https://tasks-dev.hotosm.org)
+5. Create your account in [Field Mapping Tasking Manager](https://fmtm.hotosm.org/)
+
+
+## Steps Performed : 
 
 1) Get Area of Interest : 
 
@@ -36,5 +44,14 @@ We have used rawdata api to download our AOI
 
 https://api-prod.raw-data.hotosm.org/v1/osm_id/?osm_id=742793744
 
-3 ) 
+3 ) Flight Plan : 
 
+TBD
+
+4 ) Drone Data collection 
+
+Data has been collected covering whole perimeter with Phantom 4 RTK Multispectral 
+
+5 ) Drone Data Processing 
+
+TBD
