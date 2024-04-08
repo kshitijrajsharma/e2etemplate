@@ -23,6 +23,15 @@ Perimeter of Agriculture Research Center : https://www.openstreetmap.org/way/742
 Primary objective is to train all the participant of summer school . Participant of summer school had diverse background consisitng of students, geospatial professionals and government represesntative. Total of 35 people have  attended the summer school 
 
 
+### Schedule and Event Planned 
+
+#### E2E Activity detail plan 
+![signal-2024-04-08-150936_002](https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/d9a8149b-d1d2-41e4-a721-213448ef7f87)
+
+#### Summer School overall program
+![signal-2024-04-08-150936_003](https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/cf277b07-8d7e-4474-8590-f3f2917a11e2)
+
+
 ## Checklist for the activity : 
 1. Register yourself in [OpenStreetMap](https://www.openstreetmap.org/)
 2. Download ODK Collect from [playstore](https://play.google.com/store/apps/details?id=org.odk.collect.android&pli=1)
