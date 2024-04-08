@@ -125,3 +125,17 @@ Change your Title and Hit SHARE. It will take some time to upload based on your 
 
 
 
+## Troubleshooting 
+
+
+For windows users : While running OpenDroneMap with Docker you might encounter with `out of memory` problem . By default when [WSL](https://learn.microsoft.com/en-us/windows/wsl/install) is setup , it might allocate only limited amount of memory for the VM and hence docker could be limited . To solve this : 
+
+1 ) Create `.wslconfig` file in your userprofile folder as documented [here](https://learn.microsoft.com/en-us/windows/wsl/wsl-config#wslconfig)
+2 ) Add your memory limit that you want VM to use 
+
+```
+[wsl2]
+memory=14GB
+```
+
+
