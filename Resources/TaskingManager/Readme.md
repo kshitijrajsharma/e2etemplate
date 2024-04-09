@@ -9,6 +9,25 @@ Description :
 ## Steps : 
 
 
+### Mapping Process : 
+
+
+Go TO : https://tasks-dev.hotosm.org/projects/5 
+
+Click on Contrinute 
+<img width="1433" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/4c7e1c07-55a8-498f-b1c6-72bde2ef78e4">
+
+Click on tasks you want to map 
+<img width="1405" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/34f4a6e7-4d91-4987-974f-cc4e6cc8d102">
+
+
+It will by default open ID Editor in your tasking manager itself 
+
+Start Mapping and once complete , Submit task as completed 
+
+<img width="1422" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/8ce323c2-b004-4e3d-b46d-c45ba96eeb6e">
+
+
 ### Project Creation 
 
 Make sure you have permission to create project in tasking manager dev server . Once you do so Create Project from Manage Section 
@@ -36,4 +55,6 @@ Fill all metadata details and finally add our imagery that we collected from fie
 Save and publish your project 
 
 <img width="1430" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/f1b06240-8c34-4aba-a41d-950cf0d3f2d5">
+
+
 
