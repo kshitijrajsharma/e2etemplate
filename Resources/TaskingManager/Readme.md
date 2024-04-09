@@ -23,7 +23,7 @@ Click on tasks you want to map
 
 It will by default open ID Editor in your tasking manager itself 
 
-Start Mapping and once complete , Submit task as completed 
+Start Mapping , Don't forget to give proper tags to the feature you mapped and once complete , Submit task as completed 
 
 <img width="1422" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/8ce323c2-b004-4e3d-b46d-c45ba96eeb6e">
 
