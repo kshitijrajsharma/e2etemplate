@@ -32,6 +32,6 @@ the image and create new tiff with it . We created two orthophotos
 1. Orthophoto with R, G, B and NIR band 
 2. Orthophoto with only RGB band 
 
-Now you can upload them to QGIS. 
+Now you can upload them to OpenAerialMap.
 
 Sometimes there will be black ground in the image while creating new tiff . We need to remove that before uploading.
