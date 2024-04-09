@@ -27,6 +27,24 @@ Start Mapping , Don't forget to give proper tags to the feature you mapped and o
 
 <img width="1422" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/8ce323c2-b004-4e3d-b46d-c45ba96eeb6e">
 
+#### Guide : 
+
+Right click on the feature you created and click on square the corners of the building using Q 
+
+<img width="378" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/8f5a482b-537d-4536-b8cd-360598f9a377">
+
+After you draw the geometry , Click on select feature type 
+
+<img width="460" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/05c30d58-0bd9-4cb4-9136-c3848ff08f1d">
+
+Search for what you mapped 
+<img width="750" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/1f77e229-4608-4bf4-bc5c-dbe257588e49">
+
+Give names and other fields if you know else move to next feature to map
+
+<img width="868" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/6586c47f-68da-4f9b-93fa-142359662675">
+
+
 
 ### Project Creation 
 
