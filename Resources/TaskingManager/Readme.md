@@ -44,6 +44,9 @@ Give names and other fields if you know else move to next feature to map
 
 <img width="868" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/6586c47f-68da-4f9b-93fa-142359662675">
 
+Once you are complete with changes required for the task , Click on Save and upload them to OpenStreetMap
+
+<img width="356" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/91158c23-3c45-4240-9a38-6283b3fb4aa2">
 
 
 ### Project Creation 
