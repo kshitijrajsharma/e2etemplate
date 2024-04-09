@@ -27,7 +27,7 @@ For us , We had 6 band image hence we needed to do some preprocessing using QGIS
 
 - Reaarange Bands ( GDAL utility ) 
 
-In QGIS search and find Reaarange Banda under GDAL . This function allows you to choose and extract specific bands from
+In QGIS search and find Reaarange bands under GDAL . This function allows you to choose and extract specific bands from
 the image and create new tiff with it . We created two orthophotos 
 1. Orthophoto with R, G, B and NIR band 
 2. Orthophoto with only RGB band 
