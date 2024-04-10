@@ -81,7 +81,16 @@ For our exercise we created our tasking manager project in [dev server](https://
 <img width="1427" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/4007a047-253c-4e95-94e4-a5cdeaa686ec">
 
 8) Map and Validate 
-Total 29 People contributed and validated each other's Work . We made sure remote mapping is up to date in the area . We spend Approx 3 Hour for remote mapping.
+Total 29 People contributed and validated each other's Work . We made sure remote mapping is up to date in the area . We spent Approx 3 Hour for remote mapping.
+ADD PARTICIPANT MAPPING PHOTO HERE 
+
+9) Create Field Mapping Tasking Manager Project 
+
+We created 30 tasks for the mappers and Went to the field to collect data 
+
+<img width="1402" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/62f8ac0c-9b1e-424e-b011-c24f29492f9b">
+
+10) Collect the information and upload 
 
 
 
