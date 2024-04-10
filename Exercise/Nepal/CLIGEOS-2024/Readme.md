@@ -70,4 +70,20 @@ We used OpenDroneMap to Process the collected Drone image . We have added NIR ( 
 
 6 ) Upload geotiff to OpenAerial Map 
 
-Processed Orthophoto was uploaded to OpenAerialMap . Find the image [here] () 
+Processed Orthophoto was uploaded to OpenAerialMap . Find the image [here] (https://map.openaerialmap.org/#/-18.632,18.478999999999985,3/latest/6614a992c055e600014ac552?_k=bo3rix) 
+<img width="1315" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/a71adaa0-a3bb-483b-9e11-da84f93e039f">
+
+
+
+7) Create Tasking Manager Project 
+For our exercise we created our tasking manager project in [dev server](https://tasks-dev.hotosm.org/projects/5) using the [TMS](https://tiles.openaerialmap.org/6614a755c055e600014ac550/0/6614a755c055e600014ac551/{z}/{x}/{y}) that we got for our image from OpenAerialMap. It is done in the morning after image was uploaded so that all participant can map in the afternoon. 
+
+<img width="1427" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/4007a047-253c-4e95-94e4-a5cdeaa686ec">
+
+8) Map and Validate 
+Total 29 People contributed and validated each other's Work . We made sure remote mapping is up to date in the area . We spend Approx 3 Hour for remote mapping.
+
+
+
+
+
