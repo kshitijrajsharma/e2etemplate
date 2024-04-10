@@ -105,7 +105,8 @@ We created 30 tasks for the mappers and Went to the field to collect data
 <img width="1402" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/62f8ac0c-9b1e-424e-b011-c24f29492f9b">
 
 11) Collect the information and upload 
-<img width="1405" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/c5537d69-4863-4d41-b3f9-5d4a178d17a9">
+<img width="1331" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/94e7ec55-c4a3-4e9f-a150-5ea36c692d43">
+
 
 <div style="display: flex; justify-content: center;">
   <img src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/9b87f26e-ccd6-4071-870b-a56645d0e414" width="45%">
