@@ -91,8 +91,22 @@ We created 30 tasks for the mappers and Went to the field to collect data
 <img width="1402" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/62f8ac0c-9b1e-424e-b011-c24f29492f9b">
 
 10) Collect the information and upload 
+<img width="1405" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/c5537d69-4863-4d41-b3f9-5d4a178d17a9">
 
+11 ) Download OpenStreetMap Data 
 
+Now we have field data collected , Remotely mapped buildings we create a export job in OSM Export Tool , Which will be later used in the projects 
+
+https://export.hotosm.org/v3/exports/eecdb3b1-b690-40b9-b8db-dc6a898eef1b 
+
+<img width="1432" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/84964ce2-1ec6-4c49-86a8-cc12cb894268">
+
+12 ) Creation of Local Model : 
+
+We created our local model with the remote mapping we have done , Since area was very small we couldn't get it right 
+<img width="1414" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/a720453a-e738-454f-8b3e-fbe6d89e3e1a">
+
+https://fair-dev.hotosm.org/ai-models/143 
 
 
 
