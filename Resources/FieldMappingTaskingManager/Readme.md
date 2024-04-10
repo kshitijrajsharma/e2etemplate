@@ -114,10 +114,7 @@ https://api.fmtm.hotosm.org/submission/download?project_id=90&export_json=true
 <img width="779" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/5b32337c-e8a3-456f-b5de-7c1f2e01a268">
 
 After data is available with `.json` We used the helper function in dev api to convert it to geojson 
-
-https://api.dev.fmtm.hotosm.org/docs#/helper/convert_odk_submission_json_to_geojson_wrapper_helper_convert_odk_submission_json_to_geojson_post
-
-For us we couldn't make use of above API hence we created a python script that can generate geojson from the odk json  Just run like this 
+We created a python script that can generate geojson from the odk json  Just run like this 
 
 ```python 
 python odk_json_2_geojson.py
