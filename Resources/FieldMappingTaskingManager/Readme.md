@@ -120,7 +120,7 @@ We created a python script that can generate geojson from the odk json  Just run
 python odk_json_2_geojson.py
 ```
 
-We have also added this in `data` folder which we created using field mapping  
+We have also added this in `data` [folder](https://github.com/kshitijrajsharma/e2etemplate/blob/main/Exercise/Nepal/CLIGEOS-2024/data/fmtm-data.geojson) which we created using field mapping  
 
 <img width="339" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/319e0469-d6c6-4a9b-99c2-9f90ed662f93">
 
