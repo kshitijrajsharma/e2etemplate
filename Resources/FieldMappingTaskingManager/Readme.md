@@ -117,3 +117,14 @@ After data is available with `.json` We used the helper function in dev api to c
 
 https://api.dev.fmtm.hotosm.org/docs#/helper/convert_odk_submission_json_to_geojson_wrapper_helper_convert_odk_submission_json_to_geojson_post
 
+For us we couldn't make use of above API hence we created a python script that can generate geojson from the odk json  Just run like this 
+
+```python 
+python odk_json_2_geojson.py
+```
+
+We have also added this in `data` folder which we created using field mapping  
+
+<img width="339" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/319e0469-d6c6-4a9b-99c2-9f90ed662f93">
+
+Now since this geojson contains osmid of the feature we can simply join them from the output came from OpenStreetMap 
