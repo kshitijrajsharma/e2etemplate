@@ -112,6 +112,11 @@ We created 30 tasks for the mappers and Went to the field to collect data
   <img src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/4b630979-261a-4d9c-80a1-0315602aad4c" width="45%">
 </div>
 
+We loaded our final field data as geojson like this 
+
+![image](https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/4ee00af3-7b5c-4653-92ca-26c9bfc43fc7)
+
+
 12) Download OpenStreetMap Data 
 
 Now we have field data collected , Remotely mapped buildings we create a export job in OSM Export Tool , Which will be later used in the projects 
