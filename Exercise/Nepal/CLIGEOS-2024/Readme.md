@@ -120,7 +120,15 @@ https://export.hotosm.org/v3/exports/eecdb3b1-b690-40b9-b8db-dc6a898eef1b
 
 <img width="1432" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/84964ce2-1ec6-4c49-86a8-cc12cb894268">
 
-13) Visualize and analysis in QGIS 
+13) Visualize and analysis in QGIS: 
 
+Now we load everything in to QGIS 
+
+<img width="883" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/6bd5ac51-15b0-47b0-b315-1761e4d8ef5c">
+
+
+14) Split Groups for the project using data we generate
+
+<img width="456" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/e0c988d1-4915-4f2d-a62b-1d5f6bc456db">
 
 
