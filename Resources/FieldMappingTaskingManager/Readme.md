@@ -22,46 +22,81 @@ Official Documentation : https://fmtm.dev/
 Field Mapping Project was only created after Remote Mapping is Done and Validated 
 
 - Go to https://fmtm.hotosm.org/ 
+
 - Click on Create New Project 
+
 <img width="1399" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/c8eec3e9-2165-43ae-b0a4-5fd2cba84d01">
-- Provide your project details and instruction ( For us , we used FMTM Public beta in organization ) 
+
+- Provide your project details and instruction ( For us , we used FMTM Public beta in organization )
+
 <img width="1408" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/8311ad80-2076-4766-9a80-3e3d6a50466f">
+
 - Upload your area of interest 
+
 <img width="978" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/3ba96774-7291-442e-a3ca-b8d1889c252c">
-- Slect category / Question set for mapping 
+
+- Select category, Question set for mapping 
+
 You can create your own [XLSFORM](https://hotosm.github.io/osm-fieldwork/about/xlsforms/) or select exisiting preset available in FMTM for the mapping based on your usecase. We selected preset 
+
 <img width="425" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/1352a6e8-15e0-4254-af36-21030aefa350">
 
 - Get your remotely mapped and validated features from Tasking Manager 
+
 We mapped and validated all the features from tasking manager and brought them in to FMTM using Use Data Extract Function 
+
 <img width="1018" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/4f230a4f-96ac-40b7-93a1-ef5ad08836e1">
 
 - Create tasks and Hit Save 
+
 We splitted our area in to smaller task with max 8 buildings on each 
+
 <img width="1066" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/c360ac0b-6756-49fc-b474-8f87b1afd686">
 
 
 ## Mappers 
 
 - Go to https://fmtm.hotosm.org/ 
-- Hit `sign out`  and `sign in` 
-- Select the project 
-<img width="1403" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/54b33b24-3bc0-4b33-aaeb-3bb5e1684cc5">
-- Select tasks you want to map and free 
-<img width="671" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/45e0ddbd-aea2-47a3-9826-a0c492c07e04">
-- Download the QR Code and Hit Start Mapping ( Remember to hit start mapping before you head to field ) 
-- Open ODK Collect in your smart phone 
-- Click on Manual QR Code Scanning 
-- Click on three dots on top right and click on import QR Code 
-- Select the QR Code you have downloaded and hit ok 
-- Now you should have a following screen 
-- Hit Create new form ( Your form will be downloaded ) 
-- Once you see the form inside you are good to go in field 
-- Now select the features from the map ( all your buildings should be loaded to your phone)  select them when you are there and start filling the questionaire 
-- Save all your forms to draft 
-- Revisit your forms once you are done with your tasks mark them ready to sent 
-- Once you are back on internet form will be auto submitted 
 
+- Hit `sign out`  and `sign in` 
+
+- Select the project 
+
+<img width="1403" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/54b33b24-3bc0-4b33-aaeb-3bb5e1684cc5">
+
+- Select tasks you want to map and free 
+
+<img width="671" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/45e0ddbd-aea2-47a3-9826-a0c492c07e04">
+
+- Download the QR Code and Hit Start Mapping ( Remember to hit start mapping before you head to field ) 
+
+- Open ODK Collect in your smart phone 
+
+- Click on Manual QR Code Scanning 
+
+- Click on three dots on top right and click on import QR Code 
+
+- Select the QR Code you have downloaded and hit ok 
+
+- Now you should have a following screen 
+
+<img width="317" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/3c25dafc-a7f3-48f9-8556-046156dd477d">
+
+- Hit Create new form ( Your form will be downloaded ) 
+
+<img width="327" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/cf8a2117-8958-4f25-9551-7f74a4cf4754">
+
+- Once you see the form inside you are good to go in field 
+
+- Now select the features from the map ( all your buildings should be loaded to your phone)  select them when you are there and start filling the questionaire 
+
+<img width="309" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/4032445a-8884-4a73-9f93-60d461d6a8ea">
+
+- Save all your forms to draft 
+
+- Revisit your forms once you are done with your tasks mark them ready to sent
+ 
+- Once you are back on internet form will be auto submitted 
 
 
 ## Download and Visualize 
