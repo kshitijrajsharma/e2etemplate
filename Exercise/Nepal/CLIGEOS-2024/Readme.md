@@ -107,9 +107,10 @@ We created 30 tasks for the mappers and Went to the field to collect data
 11) Collect the information and upload 
 <img width="1405" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/c5537d69-4863-4d41-b3f9-5d4a178d17a9">
 
-<img width="531" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/9b87f26e-ccd6-4071-870b-a56645d0e414">
-<img width="529" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/4b630979-261a-4d9c-80a1-0315602aad4c">
-
+<div style="display: flex; justify-content: center;">
+  <img src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/9b87f26e-ccd6-4071-870b-a56645d0e414" width="45%">
+  <img src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/4b630979-261a-4d9c-80a1-0315602aad4c" width="45%">
+</div>
 
 12) Download OpenStreetMap Data 
 
