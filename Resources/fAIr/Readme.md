@@ -1,6 +1,7 @@
 ## fAIr 
 
 **URL** : https://fair-dev.hotosm.org/
+
 **Description** : fAIr is an open AI-assisted mapping service that aims to improve the efficiency and accuracy of mapping efforts for humanitarian purposes. 
 
 The name fAIr is derived from the following terms:
