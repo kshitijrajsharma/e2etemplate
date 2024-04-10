@@ -47,28 +47,28 @@ Primary objective is to train all the participant of summer school . Participant
 Area of interest has been created with the local knowleadge and modified in OpenStreetMap 
 ```osm_id=742793744```
 
-2 ) Download Area of interest from OpenStreetMap 
+2) Download Area of interest from OpenStreetMap 
 
 We have used rawdata api to download our AOI 
 
 https://api-prod.raw-data.hotosm.org/v1/osm_id/?osm_id=742793744
 
-3 ) Flight Plan : 
+3) Flight Plan : 
 
 ![IMG_29BD788E9857-1](https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/4ef1b59a-407a-45b7-b3d3-fc97eb2a313e)
 
 
-4 ) Drone Data collection 
+4) Drone Data collection 
 
 Data has been collected covering whole perimeter with Phantom 4 RTK Multispectral 
 <img width="485" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/a1ced91d-4113-4436-baa4-289f1dd572cd">
 
 
-5 ) Drone Data Processing 
+5) Drone Data Processing 
 
 We used OpenDroneMap to Process the collected Drone image . We have added NIR ( Near Infrared Band ) too as we had multispectral drone and our testing area is agriculture research center. TBD ATTACH SCREENSHOT HERE
 
-6 ) Upload geotiff to OpenAerial Map 
+6) Upload geotiff to OpenAerial Map 
 
 Processed Orthophoto was uploaded to OpenAerialMap . Find the image [here] (https://map.openaerialmap.org/#/-18.632,18.478999999999985,3/latest/6614a992c055e600014ac552?_k=bo3rix) 
 <img width="1315" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/a71adaa0-a3bb-483b-9e11-da84f93e039f">
@@ -82,18 +82,36 @@ For our exercise we created our tasking manager project in [dev server](https://
 
 8) Map and Validate 
 Total 29 People contributed and validated each other's Work . We made sure remote mapping is up to date in the area . We spent Approx 3 Hour for remote mapping.
-ADD PARTICIPANT MAPPING PHOTO HERE 
+<img width="934" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/6466adc1-2b4a-4069-beb3-ca652827c3b6">
 
-9) Create Field Mapping Tasking Manager Project 
+
+9) Creation of Local Model : 
+
+We created our local model with the remote mapping we have done 
+<img width="1414" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/a720453a-e738-454f-8b3e-fbe6d89e3e1a">
+
+https://fair-dev.hotosm.org/ai-models/143 
+
+We could get following prediction ( We are aware as we are predicting in same area where model is trained on , but since our area wasn't big enough for both training and prediction we used the same to get the grasp idea ) 
+<img width="1361" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/3c4cf95b-8992-4905-beba-757c9171b723">
+
+Since we mapped the whole area , We were no need to push the prediction and we move ahead with the field mapping tasking manager
+
+
+10) Create Field Mapping Tasking Manager Project 
 
 We created 30 tasks for the mappers and Went to the field to collect data 
 
 <img width="1402" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/62f8ac0c-9b1e-424e-b011-c24f29492f9b">
 
-10) Collect the information and upload 
+11) Collect the information and upload 
 <img width="1405" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/c5537d69-4863-4d41-b3f9-5d4a178d17a9">
 
-11 ) Download OpenStreetMap Data 
+<img width="531" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/9b87f26e-ccd6-4071-870b-a56645d0e414">
+<img width="529" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/4b630979-261a-4d9c-80a1-0315602aad4c">
+
+
+12) Download OpenStreetMap Data 
 
 Now we have field data collected , Remotely mapped buildings we create a export job in OSM Export Tool , Which will be later used in the projects 
 
@@ -101,12 +119,7 @@ https://export.hotosm.org/v3/exports/eecdb3b1-b690-40b9-b8db-dc6a898eef1b
 
 <img width="1432" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/84964ce2-1ec6-4c49-86a8-cc12cb894268">
 
-12 ) Creation of Local Model : 
-
-We created our local model with the remote mapping we have done , Since area was very small we couldn't get it right 
-<img width="1414" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/a720453a-e738-454f-8b3e-fbe6d89e3e1a">
-
-https://fair-dev.hotosm.org/ai-models/143 
+13) Visualize and analysis in QGIS 
 
 
 
