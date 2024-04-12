@@ -66,7 +66,11 @@ Data has been collected covering whole perimeter with Phantom 4 RTK Multispectra
 
 5) Drone Data Processing 
 
-We used OpenDroneMap to Process the collected Drone image . We have added NIR ( Near Infrared Band ) too as we had multispectral drone and our testing area is agriculture research center. TBD ATTACH SCREENSHOT HERE
+We used OpenDroneMap to Process the collected Drone image . We have added NIR ( Near Infrared Band ) too as we had multispectral drone and our testing area is agriculture research center. We generated Digital Surface Model ( DSM ) , Digital Terrain Model ( DTM ) and Orthophoto with 6 bands 
+![image](https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/3de4a50f-1ad3-41d8-8579-a22476e98b4f)
+![image](https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/be8469b1-7e94-4368-bc22-eb456f193653)
+
+
 
 6) Upload geotiff to OpenAerial Map 
 
