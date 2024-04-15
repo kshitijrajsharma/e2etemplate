@@ -106,6 +106,8 @@ Since we mapped the whole area , We were no need to push the prediction and we m
 
 We created 30 tasks for the mappers and Went to the field to collect data 
 
+Link : https://fmtm.hotosm.org/project_details/MTAxMTAxMA== 
+
 <img width="1402" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/62f8ac0c-9b1e-424e-b011-c24f29492f9b">
 
 11) Collect the information and upload 
@@ -118,6 +120,7 @@ We created 30 tasks for the mappers and Went to the field to collect data
 </div>
 
 We loaded our final field data as geojson like this 
+Link : https://github.com/kshitijrajsharma/e2etemplate/blob/main/Exercise/Nepal/CLIGEOS-2024/data/fmtm-data.geojson 
 
 ![image](https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/4ee00af3-7b5c-4653-92ca-26c9bfc43fc7)
 
