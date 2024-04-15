@@ -124,6 +124,10 @@ Change your Title and Hit SHARE. It will take some time to upload based on your 
 ![Uploading](https://github.com/kshitijrajsharma/e2eTemplate/assets/36752999/10bab070-1133-420d-8b03-bbe2d19db593)
 
 
+## NDVI & Other Plant health Generation 
+
+OpenDroneMap can generate NDVI and other plan health related indexes directly. Navigate to Plant Health tab , Select the metric you want to generate it will instantly populate those in the webmap , Once you verify what you need click on generate and Download the raw tiff which later you can use it in QGIS 
+
 
 ## Troubleshooting 
 
