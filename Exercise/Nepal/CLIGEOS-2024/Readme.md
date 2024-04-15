@@ -142,3 +142,19 @@ Now we load everything in to QGIS
 <img width="456" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/e0c988d1-4915-4f2d-a62b-1d5f6bc456db">
 
 
+15) Group project results 
+
+Some sample photos have been attached 
+
+
+<div style="display: flex;">
+    <img width="412" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/18e73fdb-4748-47d1-a483-8f8cb1165cab">
+    <img width="416" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/d83301c0-e785-446f-835b-271e5f9ce561">
+    <img width="396" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/46f4e591-c7af-437a-a532-7f6f7b37a395">
+    <img width="377" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/aa067c29-f25c-4e7e-81aa-ca0ae9ebe5c2">
+    <img width="384" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/18bf1a2b-861a-46c9-b1c4-af8cc6255fd4">
+    <img width="309" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/15d9b7d2-778c-4a6c-a2fa-0b3c98326e9d">
+    <img width="374" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/a8f63da6-8654-411c-b694-9e860c045a09">
+</div>
+
+
