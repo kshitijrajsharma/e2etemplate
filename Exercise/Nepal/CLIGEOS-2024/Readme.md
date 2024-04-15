@@ -162,3 +162,8 @@ Some sample photos have been attached
 <img width="810" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/3c50f12d-8552-4aae-8d79-e10402df63e1">
 
 
+
+## Conclusion 
+
+When we started this exercise we started with a drone , QGIS on our laptop , Android smartphone with ODK installed and enthusiastics eager to learn and perform . We haven't used any commercial softwares ( beside software used to fly the drone ) during this exercise . With all free and opensource tools we were able to generate : Orthophoto , Digital Surface Model , 3D Point Cloud , NDVI and other plant health indexes , OpenAerialMap TMS , Field Mapping data with building levels,  material and name , Remotemapping with all base footprints of buildings and roads . All these data later on used by different groups to perform their short projects which is awesome . Hence we can say end to end mapping exercise can be done effectively in short period of time with actual results in real life scenario . 
+
