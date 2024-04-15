@@ -148,13 +148,17 @@ Some sample photos have been attached
 
 
 <div style="display: flex;">
-    <img width="412" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/18e73fdb-4748-47d1-a483-8f8cb1165cab">
-    <img width="416" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/d83301c0-e785-446f-835b-271e5f9ce561">
-    <img width="396" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/46f4e591-c7af-437a-a532-7f6f7b37a395">
-    <img width="377" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/aa067c29-f25c-4e7e-81aa-ca0ae9ebe5c2">
-    <img width="384" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/18bf1a2b-861a-46c9-b1c4-af8cc6255fd4">
-    <img width="309" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/15d9b7d2-778c-4a6c-a2fa-0b3c98326e9d">
-    <img width="374" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/a8f63da6-8654-411c-b694-9e860c045a09">
+    <img width="400" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/18e73fdb-4748-47d1-a483-8f8cb1165cab">
+    <img width="400" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/d83301c0-e785-446f-835b-271e5f9ce561">
+    <img width="400" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/46f4e591-c7af-437a-a532-7f6f7b37a395">
+    <img width="400" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/aa067c29-f25c-4e7e-81aa-ca0ae9ebe5c2">
+    <img width="400" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/18bf1a2b-861a-46c9-b1c4-af8cc6255fd4">
+    <img width="400" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/15d9b7d2-778c-4a6c-a2fa-0b3c98326e9d">
+    <img width="400" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/a8f63da6-8654-411c-b694-9e860c045a09">
 </div>
+
+
+#### Notes 
+<img width="810" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/3c50f12d-8552-4aae-8d79-e10402df63e1">
 
 
