@@ -35,4 +35,4 @@ Right click on XYZ tiles and click on new connection
 8) Hit okay and now data should be available in your building footprints attributes 
 <img width="820" alt="image" src="https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/9f6d92c0-92f5-46c5-83cb-4ea8c29e7f92">
 
-9) Now Load NDVI or any other plant health indexes that you want for you analysis and move ahead . You have all you need 
+9) Now Load NDVI or any other plant health indexes that you want for your analysis and move ahead . You have all you need 
