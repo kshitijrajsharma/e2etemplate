@@ -165,5 +165,16 @@ Some sample photos have been attached
 
 ## Conclusion 
 
-When we started this exercise we started with a drone , QGIS on our laptop , Android smartphone with ODK installed and enthusiastics eager to learn and perform . We haven't used any commercial softwares ( beside software used to fly the drone ) during this exercise . With all free and opensource tools we were able to generate : Orthophoto , Digital Surface Model , 3D Point Cloud , NDVI along with other plant health indexes , OpenAerialMap TMS , Field Mapping data ( building levels,  material and name ) , Remotemapping data with footprints of buildings and roads and fianlly a local AI model for our area. All these data later on used by different groups to perform their short projects which is awesome . Hence we can say end to end mapping exercise can be done effectively in short period of time with actual results in real life scenario . 
+When we started this exercise, we had a drone, QGIS on our laptop, an Android smartphone with ODK installed, and enthusiastic learners eager to perform. We didn't use any commercial software (besides the software used to fly the drone) during this exercise. With all free and open-source tools, we were able to generate:
+
+    Orthophoto
+    Digital Surface Model
+    3D Point Clouds
+    NDVI (Normalized Difference Vegetation Index) along with other plant health indices
+    OpenAerialMap TMS (Tile Map Service)
+    Field mapping data (building levels, materials, and names)
+    Remote mapping data with footprints of buildings and roads
+    A local AI model for our area
+
+All these data were later used by different groups to perform their short projects, which is awesome. Hence, we can say that an end-to-end mapping exercise can be done effectively in a short period, low cost with actual results in real-life scenarios, using free and open-source tools in collaborative environment. With help of collaborative nature of tasking manager & field mapping tasking manager we were able to utilize our manpower resources by tasks properly and effectively . 
 
