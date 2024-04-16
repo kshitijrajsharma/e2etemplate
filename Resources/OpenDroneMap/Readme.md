@@ -128,6 +128,24 @@ Change your Title and Hit SHARE. It will take some time to upload based on your 
 
 OpenDroneMap can generate NDVI and other plan health related indexes directly. Navigate to Plant Health tab , Select the metric you want to generate it will instantly populate those in the webmap , Once you verify what you need click on generate and Download the raw tiff which later you can use it in QGIS 
 
+### Steps 
+
+- Click on view map in your task 
+
+- Click on Plant Health tab 
+![image](https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/e96b4df3-b22b-45c7-a857-896c6dc38c33)
+
+- Expand your layers panel located on top left section of your map 
+
+![image](https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/47343cff-b891-4702-af45-947ad8e675e4)
+
+- Choose the algorithm you want ( NDVI, SDVI etc ) 
+![image](https://github.com/kshitijrajsharma/e2etemplate/assets/36752999/eddcb17b-7b61-4818-8a58-760d89c47f64)
+
+- Download them as GeoTiff Raw 
+
+It will take some time to generate but you will have ndvi tiff / other tiff preprocessed 
+
 
 ## Troubleshooting 
 
