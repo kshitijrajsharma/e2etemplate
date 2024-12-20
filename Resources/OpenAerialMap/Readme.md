@@ -1,5 +1,5 @@
 # Open Aerial Map
-
+![image](https://github.com/user-attachments/assets/99795e87-20da-41c2-b953-3125b5d84bb1)
 
 ## Introduction 
 
@@ -10,7 +10,8 @@ Description : OpenAerialMap is an open service to provide access to a commons of
 ## Steps : 
 
 1) Go to [openaerialmap](https://openaerialmap.org)
-2) Sign in using your google account 
+2) Sign in using your google account
+   ![image](https://github.com/user-attachments/assets/8fc70235-cb67-44b4-ad81-735bed98cd15)
 3) To upload your image : Hit Upload 
 4) Provide metadata for your image ( Type of sensor used , License , Creator and etc ) 
 5) Submit , Grab Tea and Wait for the completion 
